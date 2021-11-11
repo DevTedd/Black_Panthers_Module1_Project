@@ -1,4 +1,4 @@
-# Black_Panthers_Module1_Project
+# Black Panthers Module 1 Group Project
 
 In this project we analyze Gender Equality in the Olympic Games held over the years.
 We used Python language for the analysis and used tableau for vizualization
